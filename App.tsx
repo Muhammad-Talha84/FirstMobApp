@@ -12,7 +12,7 @@ import {SafeAreaView, StyleSheet, Text, View} from 'react-native';
 function App() {
   return (
     <SafeAreaView>
-      <Text>Talha</Text>
+      <Text>Talha Mujahid</Text>
       <View>
         <Text>Checking output</Text>
       </View>
